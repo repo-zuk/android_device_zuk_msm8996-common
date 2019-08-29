@@ -1,14 +1,14 @@
 [
   {
-    "repository": "DD3Boh/android_kernel_zuk_msm8996",
+    "repository": "LineageOS/android_kernel_zuk_msm8996",
     "target_path": "kernel/zuk/msm8996",
     "branch": "lineage-16.0",
     "remote": "github"
   },
   {
-    "repository": "zuk-devs/android_vendor_zuk",
+    "repository": "Rodrigo594/proprietary_vendor_zuk",
     "target_path": "vendor/zuk",
-    "branch": "lineage-16.0",
+    "branch": "pie",
     "remote": "github"
   },
   {
